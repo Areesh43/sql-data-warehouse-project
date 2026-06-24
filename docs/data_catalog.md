@@ -63,4 +63,3 @@ The Gold Layer is the business-level data representation, structured to support 
 | quantity | INT | The number of units of the product ordered for the line item (e.g., 1) |
 | pric | INT | The price per unit of the product for the product for the line item, in whole currency units (e.g., 25). |
 
----
